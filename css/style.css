@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6, p, span, strong {
 }
 
 .container{
-    max-width: 80%;
+    max-width: 25%;
     margin: 0 auto;
     padding: 20px;
 
@@ -75,7 +75,7 @@ background-image: url('../img/yoda-bg.jpg');
 }
 .nav-content a{
     text-decoration: none;
-    color: fff;
+    color: #ff2323;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -86,5 +86,5 @@ footer{
     display:flex;
     justify-content:  center;
     background-color: #000;
-    color: #fff;
+    color: red
 }
